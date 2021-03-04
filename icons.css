@@ -1,0 +1,56 @@
+  .geral{
+  margin-left: 30%;
+  margin-top: 10%;
+  width: 1150px;
+  height: 500px;
+  background: rgba(255, 255, 255, 0.1);
+  box-shadow: 30px 30px 50px rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  margin-left: 100px;
+  margin-top: 0;
+  }
+
+
+   .bt-textos{
+  width: 250px;
+  height: 250px;
+  border-radius: 20%;
+  box-shadow: 10px 10px 30px #000000;
+  border: 5px solid #ffffff;
+}
+
+  .bt-textos:hover{
+    padding: 5px;
+  }
+
+  .bt-textos:active{
+    border: 5px solid #0000ff;
+  }
+
+  .bt-textos:visited{
+    border: 5px solid #00ff00;
+  }
+
+  .text{
+    padding-top: 5px;
+    font-family: arial;
+    text-shadow: 5px 5px 5px #1c1c1c;
+  }
+
+  .bt-treino{
+    width:250px;
+    height: 250px;
+    border-radius: 10%;
+    box-shadow: 5px 5px 5px #1c1c1c;
+    margin-left: 280px;
+    margin-top: -250px;
+  }
+
+  .icon-t{
+    border-radius:10%;
+  }
+
+  .icon-t:hover{
+    padding: 5px;
+  }
